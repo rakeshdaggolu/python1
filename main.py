@@ -1,1 +1,2 @@
-print("Hello World")
+def reverse(s):
+    return s[::-1]
